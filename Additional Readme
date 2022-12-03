@@ -1,0 +1,1 @@
+Make sure to put the CSV to your documents folder or use the setwd() method to change the location of the working directory to where you put your CSV files.
