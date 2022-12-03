@@ -1,1 +1,2 @@
-# Analyzing-Delhi-s-Air-Quality-Index
+# Analyzing-Delhi's-Air-Quality-Index
+Analyzing a data-set that contains various air contaminants present in Delhi with their indexes recorded everyday by hour from September of 2021 to September of 2022. It shows indexes of Fine particulate matter (PM2.5) & (PM10), Nitrogen Oxide (NO), Nitrogen Di-Oxide (NO2), Nitrogen X-oxide (NOx ) and Carbon Monoxide (CO) present in air around Delhi from time to time. 
